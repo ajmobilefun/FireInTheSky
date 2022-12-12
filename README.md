@@ -32,12 +32,6 @@ Run the app using the simulator or install on a physical device by creating an A
 
 Open an issue or make a pull request.
 
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
 
 [swift-image]:https://img.shields.io/badge/Swift-4.1-orange.svg
 [swift-url]: https://swift.org/
